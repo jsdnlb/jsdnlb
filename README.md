@@ -10,8 +10,8 @@ I'm Daniel! I'm a **Full Stack Developer** 🛸, looking to solve **real-world p
 <br>
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=jsdnlb&style=flat)
+![](https://www.codewars.com/users/jsdnlb/badges/small)
 [![Github](https://img.shields.io/badge/-jsdnlb-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/jsdnlb)
-https://www.codewars.com/users/jsdnlb/badges/small
 #### 🌱 Things I am currently working on: 
 - Taking online courses about Data Science and Machine Learning 
 - Starting advanced flutter course
