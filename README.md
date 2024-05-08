@@ -1,66 +1,53 @@
-<!-- Greeting -->
-### Hi everyone 👋
-
-<!--Introduction -->
-I'm Daniel! I'm a **Full Stack Developer** 🛸, looking to solve **real-world problems** 🌎. I'm passionate about making **open-source** more accessible, creating software :computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
-<br>
-### Connect with me:
-<a href="https://www.linkedin.com/in/daniel-b-alzate-943698151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Daniel Buitrago" height="30" width="40" /></a>
-<a href="https://es.stackoverflow.com/users/124894/jsdnlb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7080573" height="30" width="40" /></a>
-<br>
-<!-- Profile View Count and GitStats -->
+<!--Introduction (start) -->
+### Hi everyone, I'm Daniel! 👋 
 ![](https://komarev.com/ghpvc/?username=jsdnlb&style=flat)
 ![](https://www.codewars.com/users/jsdnlb/badges/small)
 [![Github](https://img.shields.io/badge/-jsdnlb-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/jsdnlb)
-#### 🌱 Things I am currently working on: 
-- Taking online courses about Data Science and Machine Learning 
-- Starting advanced flutter course
+
+I'm a **Backend Developer** 🛸, looking to solve **real-world problems** 🌎. I'm passionate about making **open-source** more accessible, creating software :computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day :smile:.
+<!--Introduction (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+    <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=jsdnlb&theme=gruvbox&row=1&column=7&margin-h=15&margin-w=5" alt="jsdnlb" />
+</div>
+<!--- trophy (end) -->
+
+<!--- Contact (start) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/daniel-buitrago-backend-engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-buitrago-backend-engineer" height="30" width="40" /></a>
+<a href="https://es.stackoverflow.com/users/124894/jsdnlb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="124894" height="30" width="40" /></a>
+<a href="https://kaggle.com/jsdnlb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jsdnlb" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jsdnlb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jsdnlb" height="30" width="40" /></a>
+</p>
+<!--- Contact (end) -->
+
+#### 💻 My current stack is s **Python, Django, Flask, FastAPI, Firebase, MongoDB, JS, Vue, Quasar, Docker**
+
+#### 🌱 I'm currently studying LLM, Go, Spark
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
+- Coding at least 3 hours a day
 - Exercising 3 days a week
 
 #### 💬 Ask me about ...
-- JS, Flutter, Firebase, Flask, Bootstrap and Linux.
+- JS, Python, MongoDB, Firebase, Flask, Bootstrap and Linux.
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/jsdnlb">
-    <img width="460" height="auto" align="right" alt="jsdnlb's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=jsdnlb&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-  </a>
- <!-- icons -->
- <!-- Web Development -->
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Vanilla Javascript"></a></code>
-<code><a href = "https://nodejs.org/en/"><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"></a></code>
-<code><a href = "https://www.npmjs.com/"><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm"></a></code>
-<br>
-<code><a href = "https://flask.palletsprojects.com/en/2.0.x/"><img width="40" src="https://user-images.githubusercontent.com/17171887/126882980-726b27ca-5d36-41de-954a-509bed89577a.png" alt="Flask"></a></code>
-<code><a href = "https://getbootstrap.com/"><img width="40" src="https://user-images.githubusercontent.com/17171887/125365834-9ad21680-e33a-11eb-90a0-1c4e853fcb6f.png" alt="Bootstrap"></a></code>
-<code><a href = "https://www.php.net/"><img width="40" src="https://user-images.githubusercontent.com/17171887/125366157-28ae0180-e33b-11eb-9e6f-567400706c55.png" alt="PHP"></a></code>
-<code><a href = "https://flutter.dev/"><img width="40" src="https://user-images.githubusercontent.com/17171887/125366609-0b2d6780-e33c-11eb-9b4e-50016115817c.png" alt="Flutter"></a></code>
-<code><a href = "https://vuejs.org/"><img width="40" src="https://user-images.githubusercontent.com/17171887/125366515-d0c3ca80-e33b-11eb-9b9f-25518ae29b8b.png" alt="Vue"></a></code>
-<br>
-<!-- Integrated Development Environment -->
- <code><a href = "https://code.visualstudio.com/"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code"></a></code>
-  <code><a href = "http://wordpress.org/"><img width="40" src="https://user-images.githubusercontent.com/17171887/126882812-b41656e6-73bf-42dd-a55c-70e29a7cc217.png" alt="Wordpress"></a></code>
- <code><a href = "https://www.postman.com/"><img width="40" src="https://user-images.githubusercontent.com/17171887/126882877-1a83d94b-78f8-4436-a713-16ae1d1f9e57.png" alt="Postman"></a></code>
-<br>
-<!-- Database -->
-<code><a href = "https://firebase.google.com/"><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Google Firebase"></a></code>
-<code><a href = "https://www.postgresql.org/"><img width="40" src="https://user-images.githubusercontent.com/17171887/126882950-782e8351-5792-4890-af5e-dfcab2598f68.png" alt="PostgreSQL"></a></code>
-<code><a href = "https://www.mysql.com/"><img width="40" src="https://user-images.githubusercontent.com/17171887/126882967-ffdc8300-0b14-43f7-bf4e-5ad021eba789.png" alt="MySQL"></a></code>
-<br>
-<!-- Scripting -->
-<code><a href = "https://www.python.org/"><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></a></code>
- <code><a href = "https://www.gnu.org/software/bash/"><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash"></a></code>
- <code><a href = "https://en.wikipedia.org/wiki/Shell_script"><img width="40" src="https://static.thenounproject.com/png/3820391-200.png" alt="Shell Script"></a></code>
- <!-- Terminal -->
-<code><a href = "https://git-scm.com/"><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></a></code>
- <code><a href = "https://www.gnu.org/gnu/linux-and-gnu.es.html"><img width="40" src="https://user-images.githubusercontent.com/17171887/126882932-b1838939-7c0d-4d8f-b316-05f32650c27f.jpg" alt="Linux"></a></code>
-<br>
+<!--- Language and tools (start) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<!--- Language and tools (end) -->
 
-<h3 align="center"> Thanks for you time! 🥺</h3>
+<!--- stats (start) -->
+<p align="center"> <table align="center"> <tr border="none">
+<td width="50%" align="center">
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=jsdnlb&theme=dark&show_icons=true&count_private=true" alt="jsdnlb" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jsdnlb" src="https://github-readme-streak-stats.herokuapp.com/?user=jsdnlb&theme=dark&hide_border=false" />
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jsdnlb&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr> </table> </p>
+<!--- stats (end) -->
